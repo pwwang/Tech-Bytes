@@ -3,7 +3,7 @@
 Daily digest with curated news, tech posts, articles, and edge technologies from a wide range of reputable sources.
 
 - Update daily (as much as possible)
-- Include but not limited to: news, tech posts, articles, edge technologies, etc.
+- Include but not limited to: news, tech posts, tools, articles, edge technologies, etc.
 - Summarize and highlight key points, instead of listing the titles only
 - Include the link to the original source
 
